@@ -23,7 +23,7 @@ Started from C, wandered through Java, C#, Qt, Fortran, Flutter, web tech… and
 ### 💎 My Crown Jewel: BEENSI 👑
 
 > Imagine if travel planning, event discovery, and deep human connection had a baby...  
-> That’s **[Beensi](https://github.com/navidsoleymani/beensi)**.
+> That’s **[Beensi](https://beensi.com)**.
 
 Beensi isn’t just a project.  
 It’s **a movement**, **a lab**, **a dream**, and yes — **my happy place**.
@@ -88,7 +88,7 @@ When I’m not behind a terminal:
 ### 📬 Let's Be Internet Friends
 
 - 🔗 [LinkedIn](https://linkedin.com/in/navidsoleymani)  
-- 📧 Email: `navidsoleymani [at] ymail.com`
+- 📧 Email: `navidsoleymani@ymail.com`
 
 ---
 
